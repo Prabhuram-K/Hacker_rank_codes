@@ -10,4 +10,4 @@ Unfortunately, problem statement for some of the codes could not be retrieved. B
         -> executables
         -> test inputs as shown in Hackerrank
 
-Disclaimer: The codes published is purely inteded for academic and referral purposes. I bear no responsibility what so ever if the code from my repositories are used against the rules and will of any organization in any form of malpractice or low level works. Proceeding into any of the repositories to view the contents regards this statement as accepted and agreed with the terms of licence and disclaimer.
+Disclaimer: The codes published is purely inteded for academic and referral purposes only. I bear no responsibility what so ever if the code from my repositories are used against the rules and will of any organization in any form of malpractice or low level works. Proceeding into any of the repositories to view the contents regards this statement as accepted and agreed with the terms of licence and disclaimer.
